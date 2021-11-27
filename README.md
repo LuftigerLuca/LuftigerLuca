@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hey, I'm Luca from Germany 👋.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuftigerLuca&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuftigerLuca&layout=compact&theme=dracula&hide_border=true"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuftigerLuca&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/></a>
+
+##programming languages
+
+My preferred programming language is java, but I also know the basics of html and css, if this can be called "programming". 🤣
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuftigerLuca&layout=compact&theme=dracula&hide_border=true"/></a>
 
 
 
