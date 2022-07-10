@@ -15,7 +15,8 @@ My preferred programming language is java, but I also know the basics of html an
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuftigerLuca&layout=compact&theme=dracula&hide_border=true"/></a>
 
-![](https://komarev.com/ghpvc/?LuftigerLuca)
+
+<img src="https://komarev.com/ghpvc/?username=LuftigerLuca&color=dc143c"/>
 
 
 
