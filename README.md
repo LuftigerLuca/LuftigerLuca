@@ -4,7 +4,7 @@
 
 <br><br>
 ## **About me**
-- 🏫 student at a high school in germany
+- 🏫 student at a gymnasium in germany
 - 🤾‍♂️ programming is my hobby
 
 - 💬 If you want you can also leave a little message in my <a href="https://github.com/LuftigerLuca/LuftigerLuca/discussions/2">guestbook</a>
