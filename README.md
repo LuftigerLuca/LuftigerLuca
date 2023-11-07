@@ -1,14 +1,13 @@
 ### Hey, I'm Luca from Germany 👋.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuftigerLuca&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/></a>
-
 <br><br>
+
 ## **About me**
 - 🏫 studying applied computer science at the university of flensburg
-- 🤾‍♂️ programming is my hobby
-
 - 💬 If you want you can also leave a little message in my <a href="https://github.com/LuftigerLuca/LuftigerLuca/discussions/2">guestbook</a>
 <br><br>
+
 ## **Programming languages**
 
 My preferred programming language is java, but I also know the basics of html and css.
