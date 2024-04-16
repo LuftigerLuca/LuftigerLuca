@@ -8,9 +8,6 @@
 - 💬 If you want you can also leave a little message in my <a href="https://github.com/LuftigerLuca/LuftigerLuca/discussions/2">guestbook</a>
 <br><br>
 
-## **Programming languages**
-
-My preferred programming language is java, but I also know the basics of html and css.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuftigerLuca&theme=dracula&hide_border=true"/></a>
 
