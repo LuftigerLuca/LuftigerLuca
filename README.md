@@ -8,6 +8,7 @@
 - 💬 If you want you can also leave a little message in my <a href="https://github.com/LuftigerLuca/LuftigerLuca/discussions/2">guestbook</a>
 <br><br>
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LuftigerLuca&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuftigerLuca&layout=compact&theme=transparent)
 
 <img src="https://komarev.com/ghpvc/?username=LuftigerLuca&color=c23899"/>
